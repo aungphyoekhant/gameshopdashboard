@@ -10,8 +10,7 @@ function Input({ className, type, ...props }: React.ComponentProps<"input">) {
         "h-8 w-full min-w-0 rounded-lg border border-input bg-transparent px-2.5 py-1 text-base transition-colors outline-none",
         "file:inline-flex file:h-6 file:border-0 file:bg-transparent file:text-sm file:font-medium file:text-foreground",
         "placeholder:text-muted-foreground",
-        // ပြင်လိုက်တဲ့ အပိုင်း: focus ဖြစ်ရင် အပြာရောင်ဖျော့လေး ထွက်လာအောင်
-        "focus-visible:border-blue-400 focus-visible:ring-4 focus-visible:ring-blue-400/20",
+        "focus-visible:border-indigo-400 focus-visible:ring-4 focus-visible:ring-indigo-400/20",
         // ကျန်တာတွေကတော့ default အတိုင်းပါပဲ
         "disabled:pointer-events-none disabled:cursor-not-allowed disabled:bg-input/50 disabled:opacity-50",
         "aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20",

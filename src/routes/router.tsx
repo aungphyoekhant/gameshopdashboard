@@ -9,6 +9,7 @@ import Apps from "@/pages/Apps"
 import UnitHistory from "@/pages/UnitHistory"
 import Settings from "@/pages/Settings"
 import Profile from "@/pages/Profile"
+import Message from "@/pages/Message"
 const router = createBrowserRouter([
   {
     path: "/",
@@ -53,6 +54,10 @@ const router = createBrowserRouter([
           {
             path: "settings",
             element: <Settings />,
+          },
+          {
+            path: "message",
+            element: <Message />,
           },
         ],
       },

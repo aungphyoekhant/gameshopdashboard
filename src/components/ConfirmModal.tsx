@@ -37,7 +37,7 @@ export function ConfirmModal({
           <AlertDialogCancel>Cancel</AlertDialogCancel>
           <AlertDialogAction
             onClick={onConfirm}
-            className="bg-red-600 hover:bg-red-700"
+            className="bg-green-600 hover:bg-green-700"
           >
             Continue
           </AlertDialogAction>

@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alex",
+      "date": "2026-05-16",
+      "phonenumber": "09-123456789",
+      "email": "alex@gmail.com",
+      "amount": 5,
+      "price": 100,
+      "image": "https://picsum.photos/id/1025/200/300",
+      "state": "Active"
+    },
+    {
+      "id": "2",
+      "name": "John",
+      "date": "2026-05-15",
+      "phonenumber": "09-987654321",
+      "email": "john@gmail.com",
+      "amount": 2,
+      "price": 200,
+      "image": "https://picsum.photos/id/64/200/300",
+      "state": "Pending"
+    },
+    {
+      "id": "3",
+      "name": "Mya Mya",
+      "date": "2026-05-14",
+      "phonenumber": "09-444555666",
+      "email": "myamya@gmail.com",
+      "amount": 1,
+      "price": 150,
+      "image": "https://picsum.photos/id/1062/200/300",
+      "state": "Active"
+    }
+  ],
+  "login": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "123456",
+      "id": "k-k_BA_WMgc"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "123452",
+      "id": "3vNOk2qi6PQ"
+    },
+    {
+      "email": "aungphyokhant.official@gmail.com",
+      "password": "1234532",
+      "id": "Y0vi4tDoH8Y"
+    },
+    {
+      "email": "aungphyokhant.official@gmail.com",
+      "password": "33323224",
+      "id": "MbSSc1RcrY8"
+    },
+    {
+      "email": "aungphyokhant.official@gmail.com",
+      "password": "12345၃၂၃",
+      "id": "ZSZNW_FlX9A"
+    },
+    {
+      "email": "aungphyokhant.official@gmail.com",
+      "password": "12345၈",
+      "id": "EcmdU4VLEYY"
+    },
+    {
+      "email": "aungphyokhant.official@gmail.com",
+      "password": "၃၂၃၃၃၂၃၂",
+      "id": "JOTGzog8aHA"
+    },
+    {
+      "email": "aungphyokhant.official@gmail.com",
+      "password": "255982apk",
+      "id": "WfLotF-RLH0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
