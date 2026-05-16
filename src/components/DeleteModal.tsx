@@ -47,12 +47,12 @@ export function DeleteModal({
         </AlertDialogHeader>
 
         <AlertDialogFooter className="mt-6 gap-3 sm:justify-center">
-          <AlertDialogCancel className="rounded-md border-slate-200 px-6 hover:bg-slate-50">
+          <AlertDialogCancel className="rounded-md border-slate-200 px-6 py-5 hover:bg-slate-50">
             Cancel
           </AlertDialogCancel>
           <AlertDialogAction
             onClick={onConfirm}
-            className="rounded-md bg-red-600 px-6 text-white hover:bg-red-700"
+            className="rounded-md bg-red-600 px-6 py-5 text-white hover:bg-red-700"
           >
             Delete
           </AlertDialogAction>

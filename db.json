@@ -79,6 +79,11 @@
       "email": "aungphyokhant.official@gmail.com",
       "password": "255982apk",
       "id": "WfLotF-RLH0"
+    },
+    {
+      "email": "aungphyokhant.official@gmail.com",
+      "password": "123456",
+      "id": "Wfq524NYNUQ"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"

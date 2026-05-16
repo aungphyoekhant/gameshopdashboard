@@ -34,10 +34,10 @@ export function ConfirmModal({
           </AlertDialogDescription>
         </AlertDialogHeader>
         <AlertDialogFooter>
-          <AlertDialogCancel>Cancel</AlertDialogCancel>
+          <AlertDialogCancel className="px-6 py-5">Cancel</AlertDialogCancel>
           <AlertDialogAction
             onClick={onConfirm}
-            className="bg-green-600 hover:bg-green-700"
+            className="bg-green-600! px-6 py-5 hover:bg-green-700!"
           >
             Continue
           </AlertDialogAction>

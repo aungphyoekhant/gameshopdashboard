@@ -73,7 +73,7 @@ export function GlobalAlert() {
             className={cn(
               "rounded-lg px-8 py-5 font-bold text-white shadow-lg transition-all active:scale-95",
               isSuccess
-                ? "bg-green-600 shadow-green-200 hover:bg-green-700"
+                ? "bg-green-600! shadow-green-200! hover:bg-green-700!"
                 : "bg-red-600 shadow-red-200 hover:bg-red-700"
             )}
           >

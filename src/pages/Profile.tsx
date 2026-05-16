@@ -89,7 +89,7 @@ export default function Profile() {
   }
 
   return (
-    <div className="mx-auto min-h-screen max-w-7xl bg-slate-50/50 p-4 sm:p-6 lg:p-8">
+    <div className="mx-auto min-h-screen max-w-7xl bg-slate-50/50 p-4">
       {/* Hidden File Input */}
       <input
         type="file"
